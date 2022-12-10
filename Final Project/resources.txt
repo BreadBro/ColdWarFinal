@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Rotation_matrix#Examples
+Kevin Han with help on rotation matrices
+https://www.pygame.org/docs/
+https://stackoverflow.com/questions/61155292/pygame-surface-positioning
+https://stackoverflow.com/questions/31321032/python-test-if-point-is-in-rectangle
+https://stackoverflow.com/questions/4183208/how-do-i-rotate-an-image-around-its-center-using-pygame
